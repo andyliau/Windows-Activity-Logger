@@ -50,7 +50,7 @@
 
 	<ItemGroup>
 	  <PackageReference Include="Microsoft.Windows.ImplementationLibrary" Version="1.0.260126.7" />
-	  <PackageReference Include="SkiaSharp" Version="3.119.2" />
+	  <PackageReference Include="SkiaSharp" Version="4.156.0" />
 	  <!-- Enhanced command line handling -->
 	  <PackageReference Include="System.CommandLine" Version="2.0.5" />
 	</ItemGroup>
